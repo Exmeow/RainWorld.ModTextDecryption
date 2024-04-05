@@ -1,0 +1,10 @@
+D:\SteamLibrary\steamapps\common\Rain World\RainWorld_Data\StreamingAssets\mods\ModTextDecryption\plugins\ModTextDecryption.dll
+D:\SteamLibrary\steamapps\common\Rain World\RainWorld_Data\StreamingAssets\mods\ModTextDecryption\plugins\ModTextDecryption.pdb
+D:\SteamLibrary\steamapps\common\Rain World\ModTextDecryption\obj\Debug\ModTextDecryption.csproj.AssemblyReference.cache
+D:\SteamLibrary\steamapps\common\Rain World\ModTextDecryption\obj\Debug\ModTextDecryption.GeneratedMSBuildEditorConfig.editorconfig
+D:\SteamLibrary\steamapps\common\Rain World\ModTextDecryption\obj\Debug\ModTextDecryption.AssemblyInfoInputs.cache
+D:\SteamLibrary\steamapps\common\Rain World\ModTextDecryption\obj\Debug\ModTextDecryption.AssemblyInfo.cs
+D:\SteamLibrary\steamapps\common\Rain World\ModTextDecryption\obj\Debug\ModTextDecryption.csproj.CoreCompileInputs.cache
+D:\SteamLibrary\steamapps\common\Rain World\ModTextDecryption\obj\Debug\ModTextDecryption.dll
+D:\SteamLibrary\steamapps\common\Rain World\ModTextDecryption\obj\Debug\ModTextDecryption.pdb
+D:\SteamLibrary\steamapps\common\Rain World\ModTextDecryption\obj\Debug\ModTextDecryption.csproj.CopyComplete
